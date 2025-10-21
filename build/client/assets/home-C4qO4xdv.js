@@ -1,0 +1,1 @@
+import{w as t,j as e}from"./chunk-OIYGIGL5-BdfCQc-g.js";const s=t(function(){return e.jsxs("p",{id:"index-page",children:["This is a demo for React Router.",e.jsx("br",{}),"Check out"," ",e.jsx("a",{href:"https://reactrouter.com",children:"the docs at reactrouter.com"}),"."]})});export{s as default};
