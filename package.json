@@ -2,6 +2,7 @@
   "name": "my-react-router-app",
   "private": true,
   "type": "module",
+  "homepage": "https://arevaura.github.io/remix-tutorial",
   "scripts": {
     "build": "cross-env NODE_ENV=production react-router build",
     "dev": "react-router dev",
